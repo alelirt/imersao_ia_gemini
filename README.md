@@ -1,5 +1,4 @@
-## Desvendando a WCAG: 
-Uma Jornada Interativa de Aprendizagem com IA ✨
+## WCAG: Aprenda Interativamente com IA ✨
 
 **Boas vindas!**
 
